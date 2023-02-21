@@ -31,8 +31,7 @@ bool palindroma(string parola)
 int main()
 {
     string parola = "abba";
-
-    int a = 10;
+    
     if (palindroma(parola))
     {
         cout << "La parola e' palindroma" << endl;
